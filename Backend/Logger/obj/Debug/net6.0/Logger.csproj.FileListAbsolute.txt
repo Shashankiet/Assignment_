@@ -1,0 +1,48 @@
+C:\Users\shashank01\Desktop\design patterns\Backend\Logger\bin\Debug\net6.0\Logger.deps.json
+C:\Users\shashank01\Desktop\design patterns\Backend\Logger\bin\Debug\net6.0\Logger.dll
+C:\Users\shashank01\Desktop\design patterns\Backend\Logger\bin\Debug\net6.0\Logger.pdb
+C:\Users\shashank01\Desktop\design patterns\Backend\Logger\obj\Debug\net6.0\Logger.csproj.AssemblyReference.cache
+C:\Users\shashank01\Desktop\design patterns\Backend\Logger\obj\Debug\net6.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashank01\Desktop\design patterns\Backend\Logger\obj\Debug\net6.0\Logger.AssemblyInfoInputs.cache
+C:\Users\shashank01\Desktop\design patterns\Backend\Logger\obj\Debug\net6.0\Logger.AssemblyInfo.cs
+C:\Users\shashank01\Desktop\design patterns\Backend\Logger\obj\Debug\net6.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\shashank01\Desktop\design patterns\Backend\Logger\obj\Debug\net6.0\Logger.dll
+C:\Users\shashank01\Desktop\design patterns\Backend\Logger\obj\Debug\net6.0\refint\Logger.dll
+C:\Users\shashank01\Desktop\design patterns\Backend\Logger\obj\Debug\net6.0\Logger.pdb
+C:\Users\shashank01\Desktop\design patterns\Backend\Logger\obj\Debug\net6.0\ref\Logger.dll
+C:\Users\shashank01\Desktop\Backend\Logger\bin\Debug\net6.0\Logger.deps.json
+C:\Users\shashank01\Desktop\Backend\Logger\bin\Debug\net6.0\Logger.dll
+C:\Users\shashank01\Desktop\Backend\Logger\bin\Debug\net6.0\Logger.pdb
+C:\Users\shashank01\Desktop\Backend\Logger\obj\Debug\net6.0\Logger.csproj.AssemblyReference.cache
+C:\Users\shashank01\Desktop\Backend\Logger\obj\Debug\net6.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashank01\Desktop\Backend\Logger\obj\Debug\net6.0\Logger.AssemblyInfoInputs.cache
+C:\Users\shashank01\Desktop\Backend\Logger\obj\Debug\net6.0\Logger.AssemblyInfo.cs
+C:\Users\shashank01\Desktop\Backend\Logger\obj\Debug\net6.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\shashank01\Desktop\Backend\Logger\obj\Debug\net6.0\Logger.dll
+C:\Users\shashank01\Desktop\Backend\Logger\obj\Debug\net6.0\refint\Logger.dll
+C:\Users\shashank01\Desktop\Backend\Logger\obj\Debug\net6.0\Logger.pdb
+C:\Users\shashank01\Desktop\Backend\Logger\obj\Debug\net6.0\ref\Logger.dll
+C:\Users\shashank01\Desktop\d\Backend\Logger\bin\Debug\net6.0\Logger.deps.json
+C:\Users\shashank01\Desktop\d\Backend\Logger\bin\Debug\net6.0\Logger.dll
+C:\Users\shashank01\Desktop\d\Backend\Logger\bin\Debug\net6.0\Logger.pdb
+C:\Users\shashank01\Desktop\d\Backend\Logger\obj\Debug\net6.0\Logger.csproj.AssemblyReference.cache
+C:\Users\shashank01\Desktop\d\Backend\Logger\obj\Debug\net6.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashank01\Desktop\d\Backend\Logger\obj\Debug\net6.0\Logger.AssemblyInfoInputs.cache
+C:\Users\shashank01\Desktop\d\Backend\Logger\obj\Debug\net6.0\Logger.AssemblyInfo.cs
+C:\Users\shashank01\Desktop\d\Backend\Logger\obj\Debug\net6.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\shashank01\Desktop\d\Backend\Logger\obj\Debug\net6.0\Logger.dll
+C:\Users\shashank01\Desktop\d\Backend\Logger\obj\Debug\net6.0\refint\Logger.dll
+C:\Users\shashank01\Desktop\d\Backend\Logger\obj\Debug\net6.0\Logger.pdb
+C:\Users\shashank01\Desktop\d\Backend\Logger\obj\Debug\net6.0\ref\Logger.dll
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Logger\bin\Debug\net6.0\Logger.deps.json
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Logger\bin\Debug\net6.0\Logger.dll
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Logger\bin\Debug\net6.0\Logger.pdb
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Logger\obj\Debug\net6.0\Logger.csproj.AssemblyReference.cache
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Logger\obj\Debug\net6.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Logger\obj\Debug\net6.0\Logger.AssemblyInfoInputs.cache
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Logger\obj\Debug\net6.0\Logger.AssemblyInfo.cs
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Logger\obj\Debug\net6.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Logger\obj\Debug\net6.0\Logger.dll
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Logger\obj\Debug\net6.0\refint\Logger.dll
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Logger\obj\Debug\net6.0\Logger.pdb
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Logger\obj\Debug\net6.0\ref\Logger.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AbstractFactory/1.0.0": {
+        "dependencies": {
+          "Shared_Layer": "1.0.0"
+        },
+        "runtime": {
+          "AbstractFactory.dll": {}
+        }
+      },
+      "Shared_Layer/1.0.0": {
+        "runtime": {
+          "Shared_Layer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shared_Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

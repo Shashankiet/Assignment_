@@ -1,0 +1,141 @@
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.deps.json
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.runtimeconfig.json
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\bin\Debug\net6.0\Data_Layer.dll
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\bin\Debug\net6.0\Data_Layer.pdb
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.AssemblyReference.cache
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfoInputs.cache
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfo.cs
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.CoreCompileInputs.cache
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.CopyComplete
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\obj\Debug\net6.0\refint\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.genruntimeconfig.cache
+C:\Users\shashank01\Desktop\Project Training\Assignment\New folder\New folder\Backend\Bussiness_Layer\obj\Debug\net6.0\ref\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.deps.json
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.runtimeconfig.json
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\bin\Debug\net6.0\Data_Layer.dll
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\bin\Debug\net6.0\Data_Layer.pdb
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.AssemblyReference.cache
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfoInputs.cache
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfo.cs
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.CoreCompileInputs.cache
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.CopyComplete
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\obj\Debug\net6.0\refint\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.genruntimeconfig.cache
+C:\Users\shashank01\Desktop\Project Training\1\Backend\Bussiness_Layer\obj\Debug\net6.0\ref\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.deps.json
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.runtimeconfig.json
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\bin\Debug\net6.0\Data_Layer.dll
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\bin\Debug\net6.0\Data_Layer.pdb
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.AssemblyReference.cache
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfoInputs.cache
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfo.cs
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.CoreCompileInputs.cache
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.CopyComplete
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\obj\Debug\net6.0\refint\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.genruntimeconfig.cache
+C:\Users\shashank01\Desktop\k\Backend\Bussiness_Layer\obj\Debug\net6.0\ref\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.deps.json
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.runtimeconfig.json
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\bin\Debug\net6.0\Data_Layer.dll
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\bin\Debug\net6.0\Data_Layer.pdb
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.AssemblyReference.cache
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfoInputs.cache
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfo.cs
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.CoreCompileInputs.cache
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.CopyComplete
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\obj\Debug\net6.0\refint\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.genruntimeconfig.cache
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\obj\Debug\net6.0\ref\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\bin\Debug\net6.0\AbstractFactory.dll
+C:\Users\shashank01\Desktop\design patterns\Backend\Bussiness_Layer\bin\Debug\net6.0\AbstractFactory.pdb
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.deps.json
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.runtimeconfig.json
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\bin\Debug\net6.0\AbstractFactory.dll
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\bin\Debug\net6.0\Data_Layer.dll
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\bin\Debug\net6.0\AbstractFactory.pdb
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\bin\Debug\net6.0\Data_Layer.pdb
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.AssemblyReference.cache
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfoInputs.cache
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfo.cs
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.CoreCompileInputs.cache
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.CopyComplete
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\obj\Debug\net6.0\refint\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.genruntimeconfig.cache
+C:\Users\shashank01\Desktop\Backend\Bussiness_Layer\obj\Debug\net6.0\ref\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.deps.json
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.runtimeconfig.json
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\bin\Debug\net6.0\AbstractFactory.dll
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\bin\Debug\net6.0\Data_Layer.dll
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\bin\Debug\net6.0\AbstractFactory.pdb
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\bin\Debug\net6.0\Data_Layer.pdb
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.AssemblyReference.cache
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfoInputs.cache
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfo.cs
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.CoreCompileInputs.cache
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.CopyComplete
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\obj\Debug\net6.0\refint\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.genruntimeconfig.cache
+C:\Users\shashank01\Desktop\d\Backend\Bussiness_Layer\obj\Debug\net6.0\ref\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.deps.json
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.runtimeconfig.json
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\bin\Debug\net6.0\AbstractFactory.dll
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\bin\Debug\net6.0\Data_Layer.dll
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\bin\Debug\net6.0\AbstractFactory.pdb
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\bin\Debug\net6.0\Data_Layer.pdb
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.AssemblyReference.cache
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfoInputs.cache
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfo.cs
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.CoreCompileInputs.cache
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.CopyComplete
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\obj\Debug\net6.0\refint\Bussiness_Layer.dll
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.genruntimeconfig.cache
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\Bussiness_Layer\obj\Debug\net6.0\ref\Bussiness_Layer.dll

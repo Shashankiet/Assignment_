@@ -1,0 +1,294 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Bussiness_Layer\\Bussiness_Layer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\AbstractFactory\\AbstractFactory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\AbstractFactory\\AbstractFactory.csproj",
+        "projectName": "AbstractFactory",
+        "projectPath": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\AbstractFactory\\AbstractFactory.csproj",
+        "packagesPath": "C:\\Users\\shashank01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\AbstractFactory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shashank01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Shared_Layer\\Shared_Layer.csproj": {
+                "projectPath": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Shared_Layer\\Shared_Layer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Bussiness_Layer\\Bussiness_Layer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Bussiness_Layer\\Bussiness_Layer.csproj",
+        "projectName": "Bussiness_Layer",
+        "projectPath": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Bussiness_Layer\\Bussiness_Layer.csproj",
+        "packagesPath": "C:\\Users\\shashank01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Bussiness_Layer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shashank01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\AbstractFactory\\AbstractFactory.csproj": {
+                "projectPath": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\AbstractFactory\\AbstractFactory.csproj"
+              },
+              "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Data_Layer\\Data_Layer.csproj": {
+                "projectPath": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Data_Layer\\Data_Layer.csproj"
+              },
+              "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Shared_Layer\\Shared_Layer.csproj": {
+                "projectPath": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Shared_Layer\\Shared_Layer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Data_Layer\\Data_Layer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Data_Layer\\Data_Layer.csproj",
+        "projectName": "Data_Layer",
+        "projectPath": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Data_Layer\\Data_Layer.csproj",
+        "packagesPath": "C:\\Users\\shashank01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Data_Layer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shashank01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Shared_Layer\\Shared_Layer.csproj": {
+                "projectPath": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Shared_Layer\\Shared_Layer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Shared_Layer\\Shared_Layer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Shared_Layer\\Shared_Layer.csproj",
+        "projectName": "Shared_Layer",
+        "projectPath": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Shared_Layer\\Shared_Layer.csproj",
+        "packagesPath": "C:\\Users\\shashank01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shashank01\\Desktop\\Vue Assignment\\Backend\\Shared_Layer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shashank01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

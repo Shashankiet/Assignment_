@@ -1,0 +1,60 @@
+C:\Users\shashank01\Desktop\design patterns\Backend\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+C:\Users\shashank01\Desktop\design patterns\Backend\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+C:\Users\shashank01\Desktop\design patterns\Backend\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+C:\Users\shashank01\Desktop\design patterns\Backend\AbstractFactory\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shashank01\Desktop\design patterns\Backend\AbstractFactory\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shashank01\Desktop\design patterns\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\shashank01\Desktop\design patterns\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashank01\Desktop\design patterns\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\shashank01\Desktop\design patterns\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\shashank01\Desktop\design patterns\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\shashank01\Desktop\design patterns\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CopyComplete
+C:\Users\shashank01\Desktop\design patterns\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+C:\Users\shashank01\Desktop\design patterns\Backend\AbstractFactory\obj\Debug\net6.0\refint\AbstractFactory.dll
+C:\Users\shashank01\Desktop\design patterns\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+C:\Users\shashank01\Desktop\design patterns\Backend\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll
+C:\Users\shashank01\Desktop\Backend\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+C:\Users\shashank01\Desktop\Backend\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+C:\Users\shashank01\Desktop\Backend\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+C:\Users\shashank01\Desktop\Backend\AbstractFactory\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shashank01\Desktop\Backend\AbstractFactory\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shashank01\Desktop\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\shashank01\Desktop\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashank01\Desktop\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\shashank01\Desktop\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\shashank01\Desktop\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\shashank01\Desktop\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CopyComplete
+C:\Users\shashank01\Desktop\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+C:\Users\shashank01\Desktop\Backend\AbstractFactory\obj\Debug\net6.0\refint\AbstractFactory.dll
+C:\Users\shashank01\Desktop\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+C:\Users\shashank01\Desktop\Backend\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll
+C:\Users\shashank01\Desktop\d\Backend\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+C:\Users\shashank01\Desktop\d\Backend\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+C:\Users\shashank01\Desktop\d\Backend\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+C:\Users\shashank01\Desktop\d\Backend\AbstractFactory\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shashank01\Desktop\d\Backend\AbstractFactory\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shashank01\Desktop\d\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\shashank01\Desktop\d\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashank01\Desktop\d\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\shashank01\Desktop\d\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\shashank01\Desktop\d\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\shashank01\Desktop\d\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CopyComplete
+C:\Users\shashank01\Desktop\d\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+C:\Users\shashank01\Desktop\d\Backend\AbstractFactory\obj\Debug\net6.0\refint\AbstractFactory.dll
+C:\Users\shashank01\Desktop\d\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+C:\Users\shashank01\Desktop\d\Backend\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\AbstractFactory\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\AbstractFactory\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CopyComplete
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\AbstractFactory\obj\Debug\net6.0\refint\AbstractFactory.dll
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+C:\Users\shashank01\Desktop\Vue Assignment\Backend\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll
